@@ -1,0 +1,22 @@
+Variables:
+Las variables son como el nombre que le doy a una cosa. Por ejemplo var = encendedor. Con la variable le asigno un nombre
+a un cosa para poder volver a usarla más adelante con ese nombre y también usando el signo = podemos asignarle un Valor
+a esa variable. Se puede ir modificando cada vez que se necesite.
+
+Strings:
+Las string son cadenas de caracteres, pueden ser palabras o frases. Siempre se escriben dentro de comillas dobles
+o simples.
+
+Funciones (argumentos, return):
+Las funciones son procedimientos que se crean mediante argumentos, que sirven para repetir una misma acción en varios 
+lugares y no tener que estar repitiendose. A la vez estas funciones devuelven un resultado si se las invoca.
+
+Declaraciones if: 
+El statement if es una palabra que traducida al castellano significa "Si.." en condicional. Esta se usa para que las 
+funciones hagan comparaciones y devuelvan un resultado u otro en base a lo que le pidamos que analice.
+
+Valores booleanos (true, false): 
+Los valores booleanos nos permiten averiguar si ciertas expresiones o variable son verdaderas o falsas. 
+Esto permitirá que el código se ejecute o no. Los valores booleanos son true o false.
+
+
